@@ -10,14 +10,6 @@
 	$ composer require jormin/laravel-ip
 	```
 
-## 配置
-
-1. 注册 ServiceProvider:
-	
-	```php
-	Jormin\IP\IPServiceProvider::class,
-	```
-
 ## 使用
 
 1. 代码中使用
