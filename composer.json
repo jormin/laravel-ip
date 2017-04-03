@@ -1,7 +1,7 @@
 {
     "name": "Jormin/IP",
     "type": "library",
-    "description": ":package_description",
+    "description": "laravel下IP转实际地址",
     "keywords": [
         "Jormin",
         "IP"
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Jormin",
+            "email": "jorminxee@gmail.com",
+            "homepage": "https://blog.lerzen.com",
             "role": "Developer"
         }
     ],
