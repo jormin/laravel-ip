@@ -1,12 +1,13 @@
 {
-    "name": "Jormin/IP",
+    "name": "jormin/laravel-ip",
     "type": "library",
-    "description": "laravel下IP转实际地址",
+    "description": "解析IP地址，使用 [ipip.net](http://www.ipip.net/) 的服务。",
     "keywords": [
+        "Laravel",
         "Jormin",
         "IP"
     ],
-    "homepage": "https://github.com/Jormin/IP",
+    "homepage": "https://github.com/jormin/laravel-ip",
     "license": "MIT",
     "authors": [
         {
